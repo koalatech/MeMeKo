@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeMeKo</string>
+    <string name="action_settings">Settings</string>
+    <string name="yemood">Dare to try??</string>
+    <string name="YourMood">What\'s your mood today? Do you have the guts to be one of them?</string>
+    <string name="title_activity_displaymeme">Ikaw Ni?</string>
+    <string name="TryAgain">Try Again!</string>
+
+
+</resources>
