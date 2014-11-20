@@ -47,7 +47,7 @@ public class Displaymeme extends Activity {
                 "Kwa2 mo gid noy!",
                 "Nan kay pala pulaw!",
                 "Daw sa tikalon hu",
-                "Dama pa kmu to?",
+                "Damo pa kmu to?",
                 "Wala gid ta da?",
                 "Anu nlg kng ikaw pa gid b no?",
                 "Yudiii, parehas sila!",
