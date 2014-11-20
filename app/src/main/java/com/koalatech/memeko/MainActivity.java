@@ -49,6 +49,7 @@ public class MainActivity extends Activity {
                 Intent ShowDisplaymemIntent = new Intent(MainActivity.this,Displaymeme.class);
                 ShowDisplaymemIntent.putExtra("rand", rndInt);
                 startActivity(ShowDisplaymemIntent);
+                finish();
             }
         });
     }

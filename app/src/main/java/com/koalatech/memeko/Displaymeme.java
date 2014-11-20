@@ -75,6 +75,7 @@ public class Displaymeme extends Activity {
             public void onClick(View v){
 
                 startActivity(new Intent(Displaymeme.this,MainActivity.class));
+                finish();
             }
         });
     }
